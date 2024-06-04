@@ -3,7 +3,7 @@
 # Variables, Paths, Version
 repeat=1
 VN="0.4.4"  # Version Number
-leetpath="$(dirname "$(readlink -f "$0")")"  # Path of LeetFolder
+leetpath="$(dirname "$(pwd)"  # Path of User Directory
 leetdiff="Easy" # Default leetspeak difficulty
 
 # ASCII art for the cool kids
