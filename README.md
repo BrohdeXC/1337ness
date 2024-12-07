@@ -75,7 +75,8 @@ Planned: Functionality for subtracting wordlists
 Planned: Integrate mp64 for masks
 
 ## Changelog
-
+v0.4.9 - Allows the lines in the wordlist to have spaces  
+v0.4.8 - Added a function to subtract lists from each other  
 v0.4.7 - Added separator characters for permutations  
 v0.4.6 - Progress bar is now hard coded and can work without the python module  
 v0.4.5 - Temporarily removed progress bar, fixed file protection path when running globally  
